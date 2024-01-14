@@ -5,7 +5,7 @@
 <h3 align="center">A passionate full-stack developer from USA</h3>
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/pappu-roy-ab913b174/" target="blank">
+<a href="https://www.linkedin.com/in/pappu-roy-ab913b174" target="blank">Pappu Roy</a>
 <p align="left">
 
 </p>
